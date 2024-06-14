@@ -1,6 +1,6 @@
 # Regressão Linear Simples - Imóveis em São Paulo
 
-<h4>Treinamento de um modelo de regresão linear para tentar prever o valor de aluguel de um imóvel na capital São Paulo, levando em consideração variáveis como área, número de quartos e de garagens, e tipo de imóvel (casa, apartamento, studio).</h4>
+<h4>Treinamento de um modelo de regressão linear para tentar prever o valor de aluguel de um imóvel na capital São Paulo, levando em consideração variáveis como área, número de quartos e de garagens, e tipo de imóvel (casa, apartamento, studio).</h4>
 
 Para avaliar o modelo, foram utilizadas as métricas R-Squared, MAE e MAPE, que auferiram os seguintes valores:
 
